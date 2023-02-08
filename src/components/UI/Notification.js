@@ -1,4 +1,4 @@
-import './Notification.css';
+import './Notifiaction.css';
 
 const Notification = (props) => {
   let specialClasses = '';
